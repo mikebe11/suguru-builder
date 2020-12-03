@@ -1,0 +1,4 @@
+dist/images/*
+!dist/images/add-piece-images-here.txt
+node_modules
+.idea
